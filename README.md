@@ -1,0 +1,1 @@
+notifications page completed with the use of HTML,CSS, Vanilla Javascript
